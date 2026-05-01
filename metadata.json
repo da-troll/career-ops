@@ -1,0 +1,20 @@
+{
+  "project_name": "Career Ops",
+  "description": "AI-powered job intelligence — score job fit across 10 dimensions, draft tailored cover letters, and track your application pipeline.",
+  "tech_stack": ["React", "TypeScript", "Vite", "Tailwind CSS", "OpenAI API", "Supabase"],
+  "build_date": "2026-05-01",
+  "build_time_hours": 2,
+  "status": "complete",
+  "features": [
+    "AI job fit scoring (A-F grade + radar chart across 10 weighted dimensions)",
+    "Streaming cover letter drafting with gpt-4o",
+    "Supabase-backed application tracker with status pipeline",
+    "Pre-baked candidate profile (Daniel: Head of Product AI/Automation/Integrations)",
+    "Editable profile for any user context",
+    "Dimension-level AI reasoning with score breakdown"
+  ],
+  "live_url": "https://mvp.trollefsen.com/2026-05-01-career-ops/",
+  "github_url": "https://github.com/da-troll/career-ops",
+  "inspired_by": "santifer/career-ops",
+  "visibility": "public"
+}
